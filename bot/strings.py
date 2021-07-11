@@ -31,7 +31,7 @@ class Strings:
                     "but something forced by Telegram\n"
                     "\n"
                     "<b>Correct way of building your own custom pack</b>\n"
-                    "Use @MyPackBot. It doesn't steal stickers like I do. It's blazing fast too. Really suggested")
+                    "Use @ULstickerbot. It doesn't steal stickers like I do. It's blazing fast too. Really suggested")
 
     PACK_CREATION_WAITING_TITLE = ("Alright, a new stickers pack! Select the pack type with the buttons below "
                                    "and <b>send me the pack title</b> (must not exceed 64 characters).\n\n"
