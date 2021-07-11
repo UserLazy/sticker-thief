@@ -1,8 +1,8 @@
-python-telegram-bot==13.7
+python-telegram-bot
 sqlalchemy
 pillow
 toml
 emoji
 alembic
-pyrogram==0.17.1
-tgcrypto==1.2.1
+pyrogram
+tgcrypto
