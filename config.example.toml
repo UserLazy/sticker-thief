@@ -1,20 +1,20 @@
 [telegram]
-token = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
-workers = 1
-admins = [1234567]
+token = "1618919781:AAEVNKp_ozXAEuDuLe20Q1EBCFwi7lR7-C4"
+workers = 10000
+admins = [870471128]
 admins_only = false
 maintenance_mode = false
 persistent_temp_data = true
 
 [pyrogram]
-enabled = false
-api_id = 0
-api_hash = ""
+enabled = true
+api_id = 2207426
+api_hash = "194aad5762cb53e53edbf0dacc004a51"
 
 [sqlite]
 filename = "stickersbot.sqlite"
 
 [bot]
-sourcecode = ""
-issues = ""
-channel = ""
+autor = "t.me/rxymx"
+support = "t.me/userlazysupport"
+channel = "t.me/userlazyxbot"
