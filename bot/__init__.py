@@ -9,7 +9,7 @@ from telegram.ext import ExtBot, Defaults
 from telegram.utils.request import Request
 
 from .utils import utils
-from .utils.pyrogram import client
+from .utils.pyrogram import Client
 from .database import base
 from .bot import StickersBot
 from config import config
